@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class MathCalc {
 
 	public static void main(String[] args) {
-		System.out.println(gCalc());
+		System.out.println(secantSlope());
 
 	}
-	public static double gCalc() {
+	public static double secantSlope() {
 		double x1 = 0;
 		double y1 = 0;
 		double x2 = 0;
